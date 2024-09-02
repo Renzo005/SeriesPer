@@ -1,0 +1,23 @@
+[
+    {
+        "nombre" : "The Boys",
+        "plataforma" : "Prime Video",
+        "disponible" : true
+
+    },
+
+    {
+        "nombre" : "Anillo de Poder",
+        "plataforma" : "Prime Video",
+        "disponible" : false
+
+    },
+
+    {
+        "nombre" : "Suits",
+        "plataforma" : "Netflix",
+        "disponible" : true
+
+    }
+
+]
